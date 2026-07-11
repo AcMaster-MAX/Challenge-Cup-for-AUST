@@ -1,0 +1,18 @@
+block: "block-02-public-datasets-attack-patterns"
+title: "公开数据集与安全标准中的攻击模式提取"
+person: "2 号负责人"
+collection_date: "2026-07-11"
+status: "in_progress"
+sources:
+  - name: "请填写来源（ArbiterOS / AgentDojo / 原创等）"
+    url: ""
+    access_date: ""
+    reliability: ""
+deliverables:
+  - ""
+notes: ""
+ai_assistance:
+  used: false
+  tool: ""
+  usage: ""
+  verification: ""

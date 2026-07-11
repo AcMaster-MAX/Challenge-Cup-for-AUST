@@ -1,0 +1,18 @@
+block: "block-03-gov-original-skills"
+title: "政务办公原创场景与 OpenClaw 办公 Skills"
+person: "3 号负责人"
+collection_date: "2026-07-11"
+status: "in_progress"
+sources:
+  - name: "请填写来源（ArbiterOS / AgentDojo / 原创等）"
+    url: ""
+    access_date: ""
+    reliability: ""
+deliverables:
+  - ""
+notes: ""
+ai_assistance:
+  used: false
+  tool: ""
+  usage: ""
+  verification: ""

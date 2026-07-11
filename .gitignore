@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+.env
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+*.swp
+*.swo
+*~
+
+# 本地笔记（建议不上传）
+local-notes.md
+
+# 大于 10 MB 的原始数据请使用 Git LFS 或外部网盘
+# 如启用 LFS，请取消下方注释并配置跟踪规则
+# *.zip filter=lfs diff=lfs merge=lfs -text
+# *.tar.gz filter=lfs diff=lfs merge=lfs -text
+# *.mp4 filter=lfs diff=lfs merge=lfs -text
+# *.psd filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,18 @@
+block: "block-04-risk-grading-policy"
+title: "四级风险分级与策略规则"
+person: "4 号负责人"
+collection_date: "2026-07-11"
+status: "in_progress"
+sources:
+  - name: "请填写来源（ArbiterOS / AgentDojo / 原创等）"
+    url: ""
+    access_date: ""
+    reliability: ""
+deliverables:
+  - ""
+notes: ""
+ai_assistance:
+  used: false
+  tool: ""
+  usage: ""
+  verification: ""

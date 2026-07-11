@@ -1,0 +1,22 @@
+# 政务智能体策略规则草案（4 号）
+# 风险等级：low / mid / high / block；决策：allow / log / approval / deny
+
+- rule_id: GOV-DENY-001
+  risk_level: block
+  trigger: 任何 rm、删除正式文件、清空目录
+  decision: deny
+  audit:
+    - input_source
+    - requested_tool
+    - decision
+  note: 不可逆破坏行为，直接阻断
+
+- rule_id: GOV-APPROVE-001
+  risk_level: high
+  trigger: 发送外部邮件或带附件邮件
+  decision: approval
+  audit:
+    - input_source
+    - recipient
+    - attachment_summary
+  note: 外发风险，人工审批

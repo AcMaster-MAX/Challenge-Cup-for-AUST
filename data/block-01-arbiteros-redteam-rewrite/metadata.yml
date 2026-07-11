@@ -1,0 +1,18 @@
+block: "block-01-arbiteros-redteam-rewrite"
+title: "ArbiterOS 红队案例提取与政务改写"
+person: "1 号负责人"
+collection_date: "2026-07-11"
+status: "in_progress"
+sources:
+  - name: "请填写来源（ArbiterOS / AgentDojo / 原创等）"
+    url: ""
+    access_date: ""
+    reliability: ""
+deliverables:
+  - ""
+notes: ""
+ai_assistance:
+  used: false
+  tool: ""
+  usage: ""
+  verification: ""

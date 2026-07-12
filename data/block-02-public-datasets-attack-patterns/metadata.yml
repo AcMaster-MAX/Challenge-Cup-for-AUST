@@ -19,4 +19,4 @@ ai_assistance:
   used: true
   tool: "Claude Code (Claude Opus 4.7)"
   usage: "攻击模式识别、政务场景改写、案例 JSON 结构生成"
-  verification: "已人工核对攻击向量、case 编号、场景改写准确性"
+  verification: "AI 生成，待人工复核（请核对攻击向量、case 编号、场景改写准确性）"

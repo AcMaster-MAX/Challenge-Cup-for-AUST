@@ -18,7 +18,7 @@
 
 ## 危险工具动作
 
-approve / read
+read / approve
 
 ## 预期防护
 

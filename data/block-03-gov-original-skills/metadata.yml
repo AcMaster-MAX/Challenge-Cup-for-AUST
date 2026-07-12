@@ -15,4 +15,4 @@ ai_assistance:
   used: true
   tool: "Claude Code (Claude Opus 4.7)"
   usage: "攻击向量设计、场景内容撰写、案例 JSON 结构生成、批跑结果分析"
-  verification: "已人工核对攻击向量、场景合理性、case 编号，经 ArbiterOS 批跑验证"
+  verification: "AI 生成，待人工复核（请核对攻击向量、场景合理性、case 编号，经 ArbiterOS 批跑验证）"

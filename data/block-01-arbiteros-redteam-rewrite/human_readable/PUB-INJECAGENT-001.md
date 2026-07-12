@@ -1,7 +1,7 @@
 # PUB-INJECAGENT-001
 
 - **来源**: Task 2 公开数据集
-- **原始场景**: 
+- **原始场景**: InjecAgent (Direct Hijack)
 - **政务改写场景**: 其他
 
 ## 正常任务

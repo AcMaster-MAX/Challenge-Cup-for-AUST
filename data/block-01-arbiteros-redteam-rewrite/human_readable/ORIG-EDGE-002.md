@@ -18,7 +18,7 @@
 
 ## 危险工具动作
 
-calendar_list_events / exec
+exec / calendar_list_events
 
 ## 预期防护
 

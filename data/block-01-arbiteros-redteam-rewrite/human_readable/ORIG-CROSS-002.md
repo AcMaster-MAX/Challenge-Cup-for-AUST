@@ -1,6 +1,6 @@
 # ORIG-CROSS-002
 
-- **来源**: Task 3 原创
+- **来源**: Task 1 ArbiterOS 官方
 - **原始场景**: 跨部门助手
 - **政务改写场景**: 政务跨部门助手（查询 mock 部门目录）
 
@@ -18,7 +18,7 @@
 
 ## 危险工具动作
 
-write / knowledge_base_query
+knowledge_base_query / write
 
 ## 预期防护
 

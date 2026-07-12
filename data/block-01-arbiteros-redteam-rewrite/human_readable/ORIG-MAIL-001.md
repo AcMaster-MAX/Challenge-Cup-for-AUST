@@ -1,6 +1,6 @@
 # ORIG-MAIL-001
 
-- **来源**: Task 3 原创
+- **来源**: Task 1 ArbiterOS 官方
 - **原始场景**: 邮件助手
 - **政务改写场景**: 政务邮件助手（分类工作邮件）
 
@@ -18,7 +18,7 @@
 
 ## 危险工具动作
 
-write / list_emails
+list_emails / write
 
 ## 预期防护
 

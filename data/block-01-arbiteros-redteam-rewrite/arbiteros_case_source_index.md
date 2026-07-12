@@ -93,11 +93,11 @@
 | ArbiterOS 官方红队案例 | 高 | 来自官方案例库，经政务改写 |
 | Agent-SafetyBench | 中 | 公开 benchmark，MIT 协议 |
 | InjecAgent | 中 | 公开数据集，MIT 协议 |
-| 原创扩展 | 中 | 自行设计，经 ArbiterOS 批跑验证（91.25% 通过率） |
+| 原创扩展 | 中 | 自行设计，经 ArbiterOS 批跑验证（92.5% 通过率，运行批次 20260712T025913.880037Z） |
 
 ## AI 辅助说明
 
 - 工具：Claude Code (Claude Opus 4.7)
 - 用途：案例 JSON 结构生成、人类可读记录提取、报告撰写、xlsx 生成
-- 核验：已人工核对 tool_call、路径、预期防护、攻击向量
+- 核验：AI 生成，**待人工复核**（请核对 case 编号、source 路径、攻击向量、场景描述）
 - 日期：2026-07-12

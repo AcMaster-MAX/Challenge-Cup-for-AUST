@@ -18,7 +18,7 @@
 
 ## 危险工具动作
 
-browser_open / read / browser_upload
+browser_open / browser_upload / read
 
 ## 预期防护
 

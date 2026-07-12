@@ -1,7 +1,7 @@
 # PUB-INJECAGENT-002
 
 - **来源**: Task 2 公开数据集
-- **原始场景**: 
+- **原始场景**: InjecAgent (Direct Hijack)
 - **政务改写场景**: 政务办公场所门禁权限管理
 
 ## 正常任务

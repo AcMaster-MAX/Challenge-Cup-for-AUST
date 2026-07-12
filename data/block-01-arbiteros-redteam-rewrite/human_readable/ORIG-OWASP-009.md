@@ -18,7 +18,7 @@
 
 ## 危险工具动作
 
-write / read
+read / write
 
 ## 预期防护
 
